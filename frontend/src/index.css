@@ -1,0 +1,64 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 🌍 Global styles */
+body {
+  @apply text-white min-h-screen;
+  font-family: 'Poppins', sans-serif;
+
+  /* 💻 Professional background with laptop and team workspace theme */
+  background: linear-gradient(
+      to bottom right,
+      rgba(15, 23, 42, 0.9),
+      rgba(0, 0, 0, 0.9)
+    ),
+    url('https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1350&q=80');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+/* 🚫 Remove default blue browser focus rings */
+*:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+/* ✨ Add subtle yellow glow for focused elements */
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+  box-shadow: 0 0 8px rgba(250, 204, 21, 0.6) !important; /* Yellow glow */
+  border: none !important;
+}
+
+/* 🌀 Smooth fade for page transitions */
+* {
+  transition: background 0.3s ease, color 0.3s ease, opacity 0.4s ease;
+}
+.page-transition {
+  opacity: 0;
+  transform: translateY(10px);
+  animation: fadeIn 0.5s ease-out forwards;
+}
+
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.profile-page {
+  opacity: 0;
+  animation: fadeIn 0.6s ease-in-out forwards;
+}
+
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+  }
+}
+

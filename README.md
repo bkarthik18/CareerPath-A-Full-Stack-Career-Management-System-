@@ -79,21 +79,3 @@ PORT=5000
 
 
 These values are private and already ignored by .gitignore.
-
-📁 Folder Structure
-CareerPath/
-│
-├── backend/
-│   ├── models/
-│   ├── routes/
-│   ├── middleware/
-│   ├── server.js
-│   └── .env  (ignored)
-│
-├── frontend/
-│   ├── src/
-│   ├── public/
-│   ├── package.json
-│
-├── .gitignore
-└── README.md

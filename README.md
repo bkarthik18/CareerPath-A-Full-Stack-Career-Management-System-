@@ -79,3 +79,18 @@ PORT=5000
 
 
 These values are private and already ignored by .gitignore.
+
+## 🖼️ Project Screenshots  
+
+### 📝 Register Page  
+![Register Page](https://raw.githubusercontent.com/bkarthik18/CareerPath-A-Full-Stack-Career-Management-System-/refs/heads/main/screenshots/Register.png)
+
+### 🔐 Login Page  
+![Login Page](https://raw.githubusercontent.com/bkarthik18/CareerPath-A-Full-Stack-Career-Management-System-/refs/heads/main/screenshots/Login.png)
+
+### 👤 Profile Page  
+![Profile Page](https://raw.githubusercontent.com/bkarthik18/CareerPath-A-Full-Stack-Career-Management-System-/refs/heads/main/screenshots/Profile.png)
+
+### 💼 Job Tracker  
+![Job Tracker](https://raw.githubusercontent.com/bkarthik18/CareerPath-A-Full-Stack-Career-Management-System-/refs/heads/main/screenshots/JobTracker.png)
+

@@ -83,14 +83,14 @@ These values are private and already ignored by .gitignore.
 ## 🖼️ Project Screenshots  
 
 ### 📝 Register Page  
-![Register Page](https://raw.githubusercontent.com/bkarthik18/CareerPath-A-Full-Stack-Career-Management-System-/refs/heads/main/screenshots/Register.png)
+![Register Page](https://raw.githubusercontent.com/bkarthik18/CareerPath-A-Full-Stack-Career-Management-System-/refs/heads/main/screenshots/Register.png.png)
 
 ### 🔐 Login Page  
-![Login Page](https://raw.githubusercontent.com/bkarthik18/CareerPath-A-Full-Stack-Career-Management-System-/refs/heads/main/screenshots/Login.png)
+![Login Page](https://raw.githubusercontent.com/bkarthik18/CareerPath-A-Full-Stack-Career-Management-System-/refs/heads/main/screenshots/Login.png.png)
 
 ### 👤 Profile Page  
-![Profile Page](https://raw.githubusercontent.com/bkarthik18/CareerPath-A-Full-Stack-Career-Management-System-/refs/heads/main/screenshots/Profile.png)
+![Profile Page](https://raw.githubusercontent.com/bkarthik18/CareerPath-A-Full-Stack-Career-Management-System-/refs/heads/main/screenshots/Profile.png.png)
 
 ### 💼 Job Tracker  
-![Job Tracker](https://raw.githubusercontent.com/bkarthik18/CareerPath-A-Full-Stack-Career-Management-System-/refs/heads/main/screenshots/JobTracker.png)
+![Job Tracker](https://raw.githubusercontent.com/bkarthik18/CareerPath-A-Full-Stack-Career-Management-System-/refs/heads/main/screenshots/JobTracker.png.png)
 
